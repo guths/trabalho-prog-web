@@ -17,7 +17,6 @@
   "dependencies": {
     "@angular-devkit/build-angular": "~0.1100.5",
     "@angular/cli": "^12.0.3",
-    "@angular/compiler-cli": "^11.2.14",
     "express": "^4.17.1",
     "path": "^0.12.7"
   },
