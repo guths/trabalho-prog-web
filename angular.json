@@ -127,5 +127,8 @@
       }
     }
   },
-  "defaultProject": "prog-web"
+  "defaultProject": "prog-web",
+  "cli": {
+    "analytics": "2ccaba79-38bd-4073-962a-abd4cb5b0283"
+  }
 }
